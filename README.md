@@ -56,9 +56,9 @@ A basic calculator web application performing basic arithmetic operations using 
 
 [View Code](https://github.com/hania-cs/Calculator)
 
-### 4. Easy Text Editor
+### 5. Easy Text Editor
 
-A basic calculator web application performing basic arithmetic operations using HTML, CSS, and JavaScript.
+A basic text editor web application to capture thoughts, to code, and anything that comes into mind using HTML, CSS, and JavaScript.
 
 [View Code](https://github.com/hania-cs/Easy-TextEditor)
 
