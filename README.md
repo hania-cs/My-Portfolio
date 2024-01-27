@@ -3,6 +3,8 @@
 
 Welcome to my web developer portfolio! This project showcases my skills, projects, and contact information.
 
+https://hania-cs.github.io/My-Portfolio/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -13,17 +15,10 @@ Welcome to my web developer portfolio! This project showcases my skills, project
 - [Usage](#usage)
 - [Credits](#credits)
 
-![Screenshot One](one.png)
-![Screenshot Two](two.png)
-![Screenshot Three](three.png)
-![Screenshot Four](four.png)
-![Screenshot Four](five.png)
-![Screenshot Four](six.png)
-![Screenshot Four](seven.png)
 
 ## Introduction
 
-This portfolio website is designed and developed by Hania Seif, a passionate web developer. It serves as a platform to highlight my skills, share information about my background, showcase my projects, and provide ways to get in touch.
+This portfolio website is designed and developed by me. It serves as a platform to highlight my skills, share information about my background, showcase my projects, and provide ways to get in touch.
 
 ## About Me
 
@@ -60,6 +55,12 @@ A web application powered by the Bored API, generating random activities to over
 A basic calculator web application performing basic arithmetic operations using HTML, CSS, and JavaScript.
 
 [View Code](https://github.com/hania-cs/Calculator)
+
+### 4. Easy Text Editor
+
+A basic calculator web application performing basic arithmetic operations using HTML, CSS, and JavaScript.
+
+[View Code](https://github.com/hania-cs/Easy-TextEditor)
 
 ## Contact
 
