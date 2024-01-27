@@ -3,8 +3,6 @@
 
 Welcome to my web developer portfolio! This project showcases my skills, projects, and contact information.
 
-https://hania-cs.github.io/My-Portfolio/
-
 ## Table of Contents
 
 - [Introduction](#introduction)
